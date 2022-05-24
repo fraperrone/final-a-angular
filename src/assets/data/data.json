@@ -1,0 +1,14 @@
+{
+
+    "name": "Franco Perrone",
+    "backImage":"",
+    "image":"assets/images/perfil.jpg",
+    "position":"Full Stack Dev",
+    "company":{
+        "name":"CONICET",
+        "img":"",
+        "url":"#"
+    },
+    "ubication": "Buenos Aires (Argentina) ",
+    "about":"Soporte tecnico micro y macro informatica, redes y telecomunicaciones, Desarrollo Full-Stack"
+}
